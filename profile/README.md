@@ -65,9 +65,9 @@ Berikut adalah tampilan utama dari aplikasi **SalesPilot** yang menunjukkan alur
 
 ![](../login.png)
 ![](../dashboard.png)
-![](screenshots/lead-detail.png)
-![](screenshots/analytic.png)
-![](screenshots/sales-profile.png)
+![](../lead-detail.png)
+![](../analytic.png)
+![](../sales-profile.png)
 
 
 ## Endpoint Utama
