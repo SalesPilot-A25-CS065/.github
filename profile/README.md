@@ -6,11 +6,13 @@ SalesPilot adalah aplikasi lead scoring end-to-end untuk memprioritaskan prospek
 ---
 
 ## Tim Pengembang
-- Akbar Rezy Hanara S (R284D5Y0128) — React & Backend with AI
-- Ahmad Misbach (R284D5Y0099) — React & Backend with AI
-- Bram Prastyo Nugroho (R284D5Y0364) — React & Backend with AI
-- Augie Bryan Athalla (M296D5Y0308) — Machine Learning
-- Fayzul Haq (M284D5Y0624) — Machine Learning
+| Nama                     | ID Cohort      | Learning Path              |
+|--------------------------|----------------|----------------------------|
+| Akbar Rezy Hanara S      | R284D5Y0128    | React & Backend with AI    |
+| Ahmad Misbach            | R284D5Y0099    | React & Backend with AI    |
+| Bram Prastyo Nugroho     | R284D5Y0364    | React & Backend with AI    |
+| Augie Bryan Athalla      | M296D5Y0308    | Machine Learning           |
+| Fayzul Haq               | M284D5Y0624    | Machine Learning           |
 
 ## Overview
 SalesPilot membantu tim sales memaksimalkan efektivitas kampanye dengan:
@@ -57,6 +59,16 @@ SalesPilot membantu tim sales memaksimalkan efektivitas kampanye dengan:
 - **Backend:** Railway (lihat deployment/railway.json)
 - **Database:** Neon (PostgreSQL)
 - **Docker:** Tersedia Dockerfile untuk backend
+
+## Application Screenshots
+Berikut adalah tampilan utama dari aplikasi **SalesPilot** yang menunjukkan alur penggunaan dan fitur inti sistem.
+
+![](../login.png)
+![](../dashboard.png)
+![](screenshots/lead-detail.png)
+![](screenshots/analytic.png)
+![](screenshots/sales-profile.png)
+
 
 ## Endpoint Utama
 - `GET /health` — status API
