@@ -78,10 +78,6 @@ Berikut adalah tampilan utama dari aplikasi **SalesPilot** yang menunjukkan alur
 - `POST /notes` — tambah catatan
 - `POST /predict` — prediksi konversi (ML)
 
-## Kredensial Uji
-- Username: `sales_user_01`
-- Password: `password123`
-
 ## Lisensi
 Capstone Project Dicoding A25-CS065.
 ---
