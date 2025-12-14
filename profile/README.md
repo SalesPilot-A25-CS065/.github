@@ -1,7 +1,7 @@
 
 # SalesPilot
 
-SalesPilot adalah aplikasi lead scoring end-to-end untuk memprioritaskan prospek dengan potensi konversi tertinggi, dikembangkan sebagai Capstone Project Dicoding (Case AC-03) oleh Tim A25-CS065.
+SalesPilot adalah aplikasi lead scoring end-to-end untuk memprioritaskan prospek dengan potensi konversi tertinggi, dikembangkan sebagai Capstone Project Dicoding (Case AC-03) dalam program [Asah led by Dicoding in association with Accenture](https://www.dicoding.com/asah) oleh Tim A25-CS065.
 
 ---
 
